@@ -20,6 +20,7 @@
 ## Боты
 
 - [PostBot](https://github.com/asuleymanov/postbot) - Telegram Bot для отложенной публикации статей в системе GOLOS
+- [golos-vote-bot](https://github.com/GolosTools/golos-vote-bot) - бот для коллективного курирования постов на Голосе
 
 ## Импортеры
 
